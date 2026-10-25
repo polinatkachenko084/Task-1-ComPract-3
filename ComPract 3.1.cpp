@@ -16,6 +16,5 @@ int main() {
 
     float y = 1.0 / t;                   // зовнішня риска
     cout << "y = " << y << endl;
-    return 0;
 }
 
